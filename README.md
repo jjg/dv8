@@ -1,3 +1,3 @@
-# dv8
+# Digital Video 8 (DV8)
 
-Digital Video 8
+A digital film cartridge for Super8 movie cameras.
